@@ -1,0 +1,15 @@
+# dataset path
+
+train: E:\\SDXXXX_DETR\\VOCdevkit\\images\\train
+val: E:\\SDXXXX_DETR\\VOCdevkit\\images\\val
+test: E:\\SDXXXX_DETR\\VOCdevkit\\images\\test
+
+# number of classes
+nc: 4
+
+# class names
+names: ['block',
+        'crack',
+        'foreign',
+        'hole']
+
