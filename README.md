@@ -4,4 +4,4 @@
 This repository provides supplementary information for our paper: **"[Enhanced Foreign Body Detection on Coal Mine Conveyor Belts using Improved DLEA and Lightweight SARC-DETR Model]"**.  
 
 ## Code
-**Note:** Because the manuscript was not accepted, the code is not available to the public. After the manuscript is accepted, the core code is uploaded to the platform.
+**Note:** Since the manuscript has not been accepted, the code is currently in use. Considering the laboratory's agreement, it cannot be made public. Once the manuscript is accepted, we will share the code on the platform and provide it to more scientific research enthusiasts for learning.
