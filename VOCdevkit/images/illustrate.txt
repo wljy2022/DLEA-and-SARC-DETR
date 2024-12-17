@@ -1,1 +1,1 @@
-The train folder is the unenhanced dataset
+The train folder is the dataset
